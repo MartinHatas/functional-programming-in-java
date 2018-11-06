@@ -8,3 +8,5 @@ Functional Programming in Java
 @snap[south-west byline  text-white]
 Martin Hatas
 @snapend
+
+---

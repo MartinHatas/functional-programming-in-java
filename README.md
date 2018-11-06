@@ -2,4 +2,4 @@
 Presentation and workshop about functional programming in java
 
 ## Presentation 
-[Presenation availale via GitPitch](https://gitpitch.com//MartinHatas/functional-programming-in-java/master)
+[Presenation availale via GitPitch](https://gitpitch.com/MartinHatas/functional-programming-in-java/master)
