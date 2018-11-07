@@ -17,11 +17,12 @@ What is @color[#e49436](Functional Programming)?
 @snap[west]
 <br>
 @ul
-- It’s surprisingly hard to find a consistent definition of functional programming.
-- Using _pure functions_
-- Using immutable data structures
-- Avoiding exceptions
-- Not using nulls
+- It’s surprisingly hard to find a consistent definition of functional programming but we can have some clues.
+- Using @color[#e49436](pure functions)
+- Using @color[#e49436](immutable data structures)
+- Avoiding @color[#e49436](exceptions)
+- Not using @color[#e49436](null)
+- Using @color[#e49436](recursion) and @color[#e49436](high order function)
 
 @ulend
 @snapend
