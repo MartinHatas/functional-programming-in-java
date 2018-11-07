@@ -10,7 +10,7 @@ _Martin Hatas_
 @title[What is Functional Programming?]
 
 @snap[north-west]
-## What is @color[#e49436](Functional Programming)?
+What is @color[#e49436](Functional Programming)?
 
 @snapend
 
