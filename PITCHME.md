@@ -1,12 +1,7 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+---
 
-@snap[west headline text-white span-70]
-Functional Programming in Java
-@snapend
+#Functional Programming in @color[#e49436](Java)
 
-@snap[south-west byline  text-white]
-Martin Hatas
-@snapend
+_Martin Hatas_
 
 ---
